@@ -26,6 +26,7 @@ Example:
 - Includes a setup utility for folder configuration
 - Supports automatic startup through the VBS launcher
 - Includes a branded UI and notification flow
+![Easy PDF Watcher visual selection](main_files/Easy%20PDF%20Watcher%20-%20visual%20selection.png)
 
 ## How It Works
 
